@@ -3,6 +3,7 @@
 /* global */
 @import url(./global/global.css);
 @import url(./global/header.css);
+@import url(./global/footer.css);
 
 
 /* utilidades */
@@ -19,3 +20,6 @@
 
 /* font */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap');
+
+/* seguros */
+@import url(./seguros/seguros.css);
